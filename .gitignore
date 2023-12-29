@@ -28,7 +28,6 @@ hs_err_pid*
 private.xml
 
 # Carpeta de compilación de NetBeans
-build/
 nbbuild/
 dist/
 nbdist/
